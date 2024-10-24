@@ -4,7 +4,7 @@ using System.Collections;
 
 namespace Game.Scripts
 {
-    public class GarageDoorOpener : MonoBehaviour
+    public class DoorOpener : MonoBehaviour
     {
         [SerializeField] Transform _door;
         [SerializeField] float _speed;
